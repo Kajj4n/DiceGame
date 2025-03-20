@@ -1,0 +1,53 @@
+*
+{
+	margin				: 0px;
+	padding				: 0px;
+}
+
+body
+{
+	background-image	: url('../img/body-bg.png');
+}
+
+#page-wrapper
+{
+	
+}
+
+#page-menu-wrapper
+{
+	width				: 100%;
+	height				: 22px;
+	background-image	: url(../img/menu-bg.png);
+}
+
+#page-menu-wrapper ul
+{
+	list-style			: none;
+}
+
+#page-menu-wrapper ul li
+{
+	float				: right;
+	margin-right		: 8px;
+	margin-top			: 2px;
+}
+
+#icon-dice
+{
+	width				: 16px;
+	height				: 16px;
+	background-image	: url(../img/icon-dice.png);
+}
+
+#icon-clock
+{
+	width				: 16px;
+	height				: 16px;
+	background-image	: url(../img/icon-clock.png);
+}
+
+#page-content-wrapper
+{
+	
+}
