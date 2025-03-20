@@ -96,7 +96,7 @@ var DiceApp = function(wrapper) {
      * @type {HTMLAudioElement}
      * @public
      */
-    this.audio = new Audio("src/wav/add.wav");
+    this.audio = new Audio("./wav/add.wav");
 
     /** 
      * @type {number}
